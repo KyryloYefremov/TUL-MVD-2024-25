@@ -1,5 +1,6 @@
 /.venv
 /.idea
-
-glove.6B
 .DS_Store
+
+cv03/glove.6B
+cv04/articles.csv
